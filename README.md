@@ -26,3 +26,11 @@
 
 
 ## Summary
+
+
+### The data analysis proves the success story of the bike-sharing business in New York City and how it can be potentially duplicated in Des Moines. Visualizations for length of time that rides are checked out for all riders and genders, number of trips for all riders and genders for each hour of each day of the week were made available. Potential investors can visualize how different start times, specific genders and locations can be targeted to make their investment very profitable.
+
+### Two additional visualizations that can be investigated for future analysis bike utilization and bike repairs. These will inform investors on maintenance of the rides and how they are utilized.
+
+
+### https://public.tableau.com/views/ModuleChallenge-BikeSharingAnalysisDashboard/NYCCitiBikeDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
